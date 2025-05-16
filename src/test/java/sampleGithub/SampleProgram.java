@@ -8,5 +8,8 @@ public class SampleProgram
 		System.out.println("Github Practice");
 
 	}
+	public void login() {
+		
+	}
 
 }
